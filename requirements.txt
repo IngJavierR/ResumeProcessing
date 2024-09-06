@@ -1,0 +1,7 @@
+psycopg2-binary
+python-dotenv
+langchain
+langchain-openai
+langchain_experimental
+sentence_transformers
+pypdf
